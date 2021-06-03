@@ -36,6 +36,7 @@ You can then navigate to the *File Manager*. You can find this page by clicking 
 If you don't want to upload your files through the panel, you can use an SFTP uploader, to use a SFTP with the server head over to `Settings` tab. You can find this page by clicking on your server, then taking a look at the sidebar located on the left. You will then see an `SFTP DETAILS` card at the top, you will see a `Server Adress` and a `Username`
 
 Something like this: 
+
 ![](https://devnoah.reeee.ee/vIwnWW.png)
 
 You will then see a `Launch SFTP` button which once clicked will open your SFTP preferred SFTP client.
