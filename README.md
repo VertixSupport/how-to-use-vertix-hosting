@@ -6,6 +6,7 @@ External Reading:
 
 ## Creating your account.
 To create your account head over to #commands in our Discord, and using  simply type `/` and you will be greeted with all the commands the bot has, to make the account type: `/devcreate` - some options should show up, these are called *parameters*. The parameters that are required are `username`, `email`, and `password`. Once you've filled out those fields, hit enter on your keyboard, or send on your mobile device, and you should get a response that looks something like this: 
+
 ![](https://devnoah.reeee.ee/rj7M9l.png).
 
 You can then head over to https://panel.vertixstudios.com/ and login with the information that was provided back to you.
