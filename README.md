@@ -50,7 +50,7 @@ You will see a window that looks likes this:
 The Left side is your local machine (computer) and the right side is your server you created, simply select all the files that you wish to transfer on the left, drag them over to the right, and WinSCP will upload the files to the server and you are good to go.
 
 ## Starting your server
-Once all of your files and folders have been uploaded you can head back to the `Conole` in the panel by clicking on `Console` Tab. You can find this page by clicking on your server, then taking a look at the sidebar located on the left.
+Once all of your files and folders have been uploaded you can head back to the `Console` in the panel by clicking on `Console` Tab. You can find this page by clicking on your server, then taking a look at the sidebar located on the left.
 
 On the upper left side of this page, you will see an `OFFLINE` button; To turn the server online, simply click the green `START` button and the server will go through and install all of your dependencies from the `package.json` file you uploaded. 
 
