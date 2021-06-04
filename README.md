@@ -4,6 +4,9 @@ So you want to get free hosting but know how to use Vertix Hosting? How do you m
 External Reading: 
 > https://support.vertixstudios.com/how-to-use-vertix-hosting
 
+## Before starting:
+**Please note that you need to aquire the `Vertix Hosting` role by going to the #roles channel and reacting with the 🐱‍👤.**
+
 ## Creating your account.
 To create your account head over to #commands in our Discord, and using  simply type `/` and you will be greeted with all the commands the bot has, to make the account type: `/devcreate` - some options should show up, these are called *parameters*. The parameters that are required are `username`, `email`, and `password`. Once you've filled out those fields, hit enter on your keyboard, or send on your mobile device, and you should get a response that looks something like this: 
 
