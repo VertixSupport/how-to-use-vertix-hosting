@@ -2,7 +2,7 @@
 So you want to get free hosting but know how to use Vertix Hosting? How do you make an account and create your server? This guide will give you all the information your need from starting your server, to uploading your files with WinSCP (SFTP) we can cover it all for you.
 
 External Reading: 
-> https://support.vertixstudios.com/how-to-use-vertix-hosting
+> https://help.vertixstudios.com/articles/how-to-use-vertix-hosting
 
 ## Before starting:
 **Please note that you need to aquire the `Vertix Hosting` role by going to the #roles channel and reacting with the 🐱‍👤.**
